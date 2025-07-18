@@ -2,7 +2,7 @@ Getting started with merge conflicts
 
 Names of collaborators:
 
-- 10:
+- 1: Shadiya Iffath
 - 3:
 - 2:
 - 7:
